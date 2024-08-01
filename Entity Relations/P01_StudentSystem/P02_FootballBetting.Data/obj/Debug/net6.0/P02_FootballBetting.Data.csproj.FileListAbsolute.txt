@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.deps.json
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.runtimeconfig.json
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.dll
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.pdb
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_Foot.B586DA8A.Up2Date
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.dll
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\refint\P02_FootballBetting.Data.dll
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.pdb
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.genruntimeconfig.cache
+C:\Users\PC\Documents\SoftUni - .NET\Entity Framework Core\Exercises\Entity Relations\P01_StudentSystem\P02_FootballBetting.Data\obj\Debug\net6.0\ref\P02_FootballBetting.Data.dll

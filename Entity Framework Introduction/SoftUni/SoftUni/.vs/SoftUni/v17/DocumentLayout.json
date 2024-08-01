@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|c:\\users\\pc\\documents\\softuni - .net\\entity framework core\\exercises\\entity framework introduction\\softuni\\softuni\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|c:\\users\\pc\\documents\\softuni - .net\\entity framework core\\exercises\\entity framework introduction\\softuni\\softuni\\softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|c:\\users\\pc\\documents\\softuni - .net\\entity framework core\\exercises\\entity framework introduction\\softuni\\softuni\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|c:\\users\\pc\\documents\\softuni - .net\\entity framework core\\exercises\\entity framework introduction\\softuni\\softuni\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|c:\\users\\pc\\documents\\softuni - .net\\entity framework core\\exercises\\entity framework introduction\\softuni\\softuni\\softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E83C881-A285-4B33-95D1-46061388752F}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Models\\Employee.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Employee.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:21:20.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Project.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:21:20.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "SoftUni\\Models\\EmployeeProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:21:20.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Data\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUni\\Data\\SoftUniContext.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAIwJQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:21:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUni\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Entity Framework Introduction\\SoftUni\\SoftUni\\SoftUni\\StartUp.cs",
+              "RelativeToolTip": "SoftUni\\StartUp.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:21:20.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

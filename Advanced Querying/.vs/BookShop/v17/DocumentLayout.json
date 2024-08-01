@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Advanced Querying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|c:\\users\\pc\\documents\\softuni - .net\\entity framework core\\exercises\\advanced querying\\bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Advanced Querying\\BookShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\SoftUni - .NET\\Entity Framework Core\\Exercises\\Advanced Querying\\BookShop\\StartUp.cs",
+              "RelativeToolTip": "BookShop\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:06:08.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
